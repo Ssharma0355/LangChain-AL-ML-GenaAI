@@ -1,0 +1,9 @@
+There are 2 types of AI Model
+1 is Closed Sources - Anthropic, Gemini, OpenAI (Paid & Hard to modify)
+2nd is Open Source - LLaMA(Facebook) (Free, and Easyly modified, Local setup and Deploy)
+
+Open Source can be found in Hugging Face (All type of Appliaction(10000s application))
+
+Open Source Uses - > Can Run Locally or use the open api of Hugging face(Free also but limited)
+Disatvantage - Hardware GPU needed, Fine-tunning needed, Text-gen till now not heavy work
+
