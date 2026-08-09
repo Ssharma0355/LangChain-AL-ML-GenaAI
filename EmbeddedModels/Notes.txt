@@ -1,0 +1,1 @@
+Embedding Models is used convert Text into Vectors
